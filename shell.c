@@ -7,6 +7,9 @@
 #include <fcntl.h>
 #include <signal.h>
 
+// Adebola Ajayi
+// Farouk Balogun
+
 #define MAX_COMMAND_LINE_LEN 1024
 #define MAX_COMMAND_LINE_ARGS 128
 
